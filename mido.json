@@ -1,7 +1,7 @@
 {
   "response": [
     {
-        "maintainer": "Kevin Frost",
+        "maintainer": "Khalakuzzaman Apon",
         "oem": "Redmi",
         "device": "Redmi Note 4",
         "filename": "crDroidAndroid-12.1-20220510-mido-v8.4.zip",
@@ -19,7 +19,7 @@
         "bootloader": "",
         "recovery": "https://dl.twrp.me/mido/",
         "paypal": "",
-        "telegram": "https://t.me/Kevinfrostto",
+        "telegram": "https://t.me/Apon77",
         "dt": "https://github.com/crdroidandroid/android_device_xiaomi_mido",
         "common-dt": "",
         "kernel": ""
